@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá (:
+    Sou estudante de programação, mais especificamente na área
+    de desenvolvimento web(front-end).
 
-<!--
-**sarahmelo/sarahmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/vue-js.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
-Here are some ideas to get you started:
+## Principais Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **1 °Next  Level Week** [ECOLETA](https://github.com/sarahmelo/NLW)
+ **VueJs** [Task List ](https://github.com/sarahmelo/vue-tutorial)
+**Api do github** [gitFinder](https://github.com/sarahmelo/gitFinder) 
+
+    Obrigada pela visita! (:
+
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/sarah-melo-95b231190/) 
