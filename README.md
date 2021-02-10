@@ -1,4 +1,4 @@
-# Olá (:
+# Olá :bird:
     Sou estudante de programação, mais especificamente na área
     de desenvolvimento web(front-end).
 
@@ -6,10 +6,10 @@
 
 ## Principais Projetos
 
- **1 °Next  Level Week** [ECOLETA](https://github.com/sarahmelo/NLW)
- **VueJs** [Task List ](https://github.com/sarahmelo/vue-tutorial)
+ **1 °Next  Level Week** [ECOLETA](https://github.com/sarahmelo/NLW) <br/>
+ **VueJs** [Task List ](https://github.com/sarahmelo/vue-tutorial) <br/>
 **Api do github** [gitFinder](https://github.com/sarahmelo/gitFinder) 
 
-    Obrigada pela visita! (:
+    Valeu!
 
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/sarah-melo-95b231190/) 
