@@ -5,8 +5,10 @@
 
 ## Principais Projetos
 
- **1 °Next  Level Week** [ECOLETA](https://github.com/sarahmelo/NLW) <br/>
- **VueJs** [Task List ](https://github.com/sarahmelo/vue-tutorial) <br/>
-**Api do github** [gitFinder](https://github.com/sarahmelo/gitFinder) 
+ **1 °Next  Level Week** <br/>
+ **VueJs**<br/>
+**Api do github** 
+
+
 
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/sarah-melo-95b231190/) 
