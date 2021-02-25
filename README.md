@@ -1,7 +1,7 @@
 ### I,'m Sarah :shipit:
 I am currently learning **VueJs, ReactJS, NextJs and css libraries**.
 But i'm focusing on VueJs
-Sometimes I spend time studying astronomy :ringed_planet: , but I also like to have fun with games, videos, and other random things. 
+As a hobby, I like to spend time studying astronomy :ringed_planet: , but I also like to have fun with games, videos, and other random things. 
 ### Knowledge and skills: 
 
 ![dark - black](https://user-images.githubusercontent.com/67019242/109095914-5fbca700-76fb-11eb-81e5-22fcd7813ff4.png)
